@@ -1,2 +1,2 @@
 # GNUtered
-A breakdown of GUIstep.
+A breakdown of GNUstep.
